@@ -4,6 +4,8 @@
 
 package com.mycompany.inclasspart2;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Somya Dwivedi, 2026
